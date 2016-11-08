@@ -51,5 +51,6 @@ public class MainActivity extends AppCompatActivity {
             }
         },1985,11,30);
 
+        GetAllBiers.startActionGetAllBier(this);
     }
 }
